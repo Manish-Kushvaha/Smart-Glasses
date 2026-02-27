@@ -36,7 +36,7 @@
 
 ## 🔗 Project Demonstration
 
-- **LinkedIn Post:** (https://surl.li/mqrjxk)  
+- **LinkedIn Post:** https://surl.li/mqrjxk
 
 ---
 
