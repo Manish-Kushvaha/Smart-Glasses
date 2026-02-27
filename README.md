@@ -34,6 +34,16 @@
 
 ---
 
+## 📷 Project Screenshots
+
+### 🕶 Smart Glasses
+![Smart Glasses](assets/Smart glasses.jpg)
+
+### 🏗 Flowchart
+![Flowchart](assets/Sys Flowchart.png)
+
+---
+
 ## 🔗 Project Demonstration
 
 - **LinkedIn Post:** https://surl.li/mqrjxk
