@@ -27,16 +27,6 @@
 
 ---
 
-## 🚀 Highlights
-
-- Real-time obstacle detection  
-- Low-latency edge processing  
-- Seamless hardware–mobile integration  
-- Reliable Bluetooth communication  
-- Social-impact driven innovation  
-
----
-
 ## 🧰 Tech Stack
 
 - **Hardware:** ESP32-CAM  
@@ -44,6 +34,16 @@
 - **Mobile Development:** Android Studio (Java)  
 - **Communication:** Bluetooth (Serial Port Profile - SPP)  
 - **Audio Feedback:** Text-to-Speech (TTS) API  
+
+---
+
+## 🚀 Highlights
+
+- Real-time obstacle detection  
+- Low-latency edge processing  
+- Seamless hardware–mobile integration  
+- Reliable Bluetooth communication  
+- Social-impact driven innovation  
 
 ---
 
